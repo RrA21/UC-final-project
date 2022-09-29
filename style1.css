@@ -1,0 +1,96 @@
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+h1{
+margin: 0;
+height:200px ;
+padding: 60px;
+background-color: rgb(77, 75, 73);
+color:tan;
+font-family: swap;
+height: 250px;
+}
+button{
+    width: 180px;
+    font-size: 18px;
+    padding: 12px 0;
+    border: 0;
+    border-radius: 20px;
+    margin-top: 30px;
+    outline: 0;
+    background: rgb(77, 75, 73);
+    color: bisque;
+    
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    background-color: tan;
+    height: 250px;
+    font-family: swap;
+}
+body{
+  background-color: antiquewhite;
+  margin: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    padding: 16px;
+    
+}
+p{
+    margin: 25px;
+}
+.img{
+    margin: 50px; 
+    
+}
+.containerr{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   
+  
+   margin: 80px;
+  
+}
+.pic{
+    margin: 25px; 
+    margin-left: 80px;  
+    box-shadow: 10px 10px rgb(77, 75, 73); 
+}
+h2{
+    margin: 25px;
+    font-size: 6opx;
+    font-family: swap;
+    display: flex;
+    justify-content: center;
+
+}
+#card{
+   background-color:wheat;
+    color: black;
+    font-size: 18px;
+    font-family: swap;
+    box-shadow: 10px 10px rgb(77, 75, 73);
+}
+#list{
+    background-color: wheat;
+    color: black;
+    font-size: 18px;
+    font-family: swap;
+    box-shadow: 10px 10px rgb(77, 75, 73);
+   
+}
+#video{
+    margin: 70px;
+    box-shadow: 5px 5px 5px 5px gray;
+}

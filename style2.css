@@ -1,0 +1,87 @@
+h1{
+    font-size: 70px;
+    font-family: swap;
+    padding: 80px;
+    color: black;
+    background-color: tan;
+    height: 200px;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+    max-width: 700px; /* Maximum width */
+    margin: 0 auto; /* Center it */
+   
+  }
+  
+  .container .content {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: tan; /* Black background with 0.5 opacity */
+    color:black; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 20px; /* Some padding */
+   box-shadow: 10px 10px;
+  }
+ img{
+    height: 450px;
+ }
+.containerr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#video{
+    margin: 70px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+#video1{
+    margin: 70px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+#video2{
+    margin: 70px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+#video3{
+    margin: 70px; 
+    box-shadow: 5px 5px 5px 5px gray;
+}
+
+button{
+    width: 180px;
+    font-size: 18px;
+    padding: 12px 0;
+    border: 0;
+    border-radius: 20px;
+    margin-top: 30px;
+    outline: 0;
+    background: black;
+    color: bisque;
+  }
+  body{
+    margin: 0;
+    background-color: #f1f1f1;
+  }
+.button{
+    background-color: tan;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: swap;
+   
+}
+h2{
+    font-family: swap;
+}
+p{
+    font-family: swap;
+}
+.card{
+    box-shadow: 10px 10px lightgrey;
+
+}

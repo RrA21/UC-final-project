@@ -1,0 +1,97 @@
+ img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    
+} 
+button{
+    width: 180px;
+    font-size: 18px;
+    padding: 12px 0;
+    border: 0;
+    border-radius: 20px;
+    margin-top: 30px;
+    outline: 0;
+    background: rgb(164, 160, 164);
+    color: white;
+}
+h1{
+    font-size: 60px;
+    font-family: swap;
+    padding: 80px;
+    color: white;
+    height: 200px;
+    margin: 70px;
+    margin-left: 90px;
+}
+.img{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+#img{
+    margin: 50px;
+}
+.containerr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#video{
+    margin: 40px;
+    box-shadow: 10px 10px rgb(50, 28, 48);
+    border-radius: 10px;
+}
+body{
+    margin: 0;
+    background-color: rgb(164, 160, 164);
+}
+
+
+h2{
+font-family: swap;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 40px;
+ color: aliceblue;
+}
+
+#card{
+    background-color: bisque;
+    font-size: 16px;
+    padding: 16px;
+    border-radius: 10px;
+    box-shadow: 10px 10px rgb(50, 28, 48);
+    color: black;
+}
+
+.button{
+    background-color: rgb(50, 28, 48);
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: swap;
+   
+}
+
+.card{
+    width: 500px;
+    height: 400px;
+    margin: 40px;
+}
+.h1{
+    background-color:rgb(50, 28, 48) ;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    height: 300px;
+    margin: 0;
+}
+.p{
+   margin: 70px;
+}
